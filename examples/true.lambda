@@ -1,0 +1,3 @@
+TRUE=(λx.λy.x)
+
+TRUE
